@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Emacs
+*~
+/#*/#
+
+# Slides
+*.html
+
+# Other
+2016-08-18-TitanicHypothesisTesting-Notes.ipynb
